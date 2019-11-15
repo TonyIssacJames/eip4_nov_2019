@@ -1,2 +1,5 @@
-# eip4_nov_2019
-a place holder to submit eip4 assignments
+# Assignment - 01
+- Running the code
+-`print(score)` gave the following score
+-`[0.04920892036419236, 0.9882]`
+
